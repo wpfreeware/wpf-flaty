@@ -45,21 +45,21 @@ WpF Flaty designed especially flat technology in mind. If you are looking for a 
 
 # Frequently Asked Questions
 
-= How do I change the color scheme, header banner, logo, favicon etc?
+#### How do I change the color scheme, header banner, logo, favicon etc?
 
 Answer: You can change easily all these settings from live customizer theme option panel (Appearance -> Customize) 
 where you will find all those options like colorpicker, image uploader, social settings, sidebar settings etc.
 
-= How do I post videos & audios with the video/audio post formats?
+#### How do I post videos & audios with the video/audio post formats?
 
 Answer: Paste your video/audio embeeded code into the WordPress edior. Make sure to pur your code in the text mode not visual.
 
-= How do I post Quote post formats?
+#### How do I post Quote post formats?
 
 Answer: Write your Quote in the WordPress Visual editor & select the Quote texts. After that click on the 
 Blockquote button from visual editor toolbar, Hit Publish.
 
-= How do I add author bio?
+#### How do I add author bio?
 
 Answer: In order to display the author bio box you need to write something about yourself in the author description box.
 You can do that by going to users > your profile
@@ -86,7 +86,7 @@ All the images are licensed under CC0(https://creativecommons.org/choose/zero/).
 The screenshot.png created by author & licensed it to [GPL v3 or later] (http://www.gnu.org/licenses/gpl-3.0.html).
 Here are some images url below.
 
-Images:
+Screenshot image sources:
 * https://www.pexels.com/photo/fireplace-wood-5766/
 * https://www.pexels.com/photo/acer-chromebook-on-the-white-desk-6598/
 * https://www.pexels.com/photo/notebook-on-the-wooden-desk-6218/
