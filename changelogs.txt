@@ -1,46 +1,46 @@
-1.1.7
-# Added conditional option for author bio, will appear if author description is not empty.
-# Removed unnecessary static texts
-# Fixed logo width issue
-# Fixed css bugs
-# Added enable/disable option for off-canvas menu
-# POT file re-generated
-# Updated readme.txt
+# 1.1.7
+* Added conditional option for author bio, will appear if author description is not empty.
+* Removed unnecessary static texts
+* Fixed logo width issue
+* Fixed css bugs
+* Added enable/disable option for off-canvas menu
+* POT file re-generated
+* Updated readme.txt
 
 
-1.1.6
-# Removed Accessibility tag as a feature from readme.txt file
-# Added changelogs.txt file
+# 1.1.6
+* Removed Accessibility tag as a feature from readme.txt file
+* Added changelogs.txt file
 
-1.1.5
-# Removed Accessibility tag
+# 1.1.5
+* Removed Accessibility tag
 
-1.1.4
-Fixed bugs in post-formats.php (< sign was missing in article tag)
-Updated readme.txt file
+# 1.1.4
+* Fixed bugs in post-formats.php (< sign was missing in article tag)
+* Updated readme.txt file
 
-1.1.3
-Edited readme.txt file for the screenshot.png
-Added Slick & FakeLoader licenses in the readme.txt
+# 1.1.3
+* Edited readme.txt file for the screenshot.png
+* Added Slick & FakeLoader licenses in the readme.txt
 
-1.1.2
-Transfered license.txt info to readme.txt file.
-Escaped theme color option values while outputting from customizer.php
-Removed extra < (less than) sign from post-formats.php
-Escaped home_url from searchform.php
-Properly replaced Query function in the related-post.php
-Removed add_theme_support('editor_style') from function.php
-Removed social buttons scripts from post-meta.php
+# 1.1.2
+* Transfered license.txt info to readme.txt file.
+* Escaped theme color option values while outputting from customizer.php
+* Removed extra < (less than) sign from post-formats.php
+* Escaped home_url from searchform.php
+* Properly replaced Query function in the related-post.php
+* Removed add_theme_support('editor_style') from function.php
+* Removed social buttons scripts from post-meta.php
 
 
-1.1.1
-Fixed off-canvas menu icon position when admin bar is enable
+# 1.1.1
+* Fixed off-canvas menu icon position when admin bar is enable
 
-1.1
-Fixed text-domain/translating issues
-remove site icon setting
-regenarated pot file
-renamed custom page templates
+# 1.1
+* Fixed text-domain/translating issues
+* remove site icon setting
+* regenarated pot file
+* renamed custom page templates
 
-1.0 
-Initial Release
+# 1.0 
+* Initial Release
