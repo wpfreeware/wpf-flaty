@@ -1,11 +1,17 @@
 # License
 
 Contributors: WpFreeware
+
 Contributors URI: http://www.wpfreeware.com/wpf-flaty-responsive-free-flat-wordpress-theme/
+
 Tags: full-width-template, one-column, custom-header, custom-colors, theme-options, threaded-comments, sticky-post, custom-background, custom-menu, editor-style, featured-images, gray, light, responsive-layout, right-sidebar, left-sidebar, translation-ready, two-columns, black, blue, brown, gray, green, orange, pink, purple, red, silver, tan, white, yellow, dark, light
+
 Requires at least: 4.3
+
 Tested up to: 4.4
+
 License: GPLv3 or later
+
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 # Description
