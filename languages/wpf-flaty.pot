@@ -1,0 +1,294 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpf-flaty\n"
+"POT-Creation-Date: 2016-01-02 19:05+0600\n"
+"PO-Revision-Date: 2016-01-02 19:05+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: 404.php:22
+msgid "404"
+msgstr ""
+
+#: 404.php:23
+msgid "We are sorry, this page is not available"
+msgstr ""
+
+#: 404.php:24
+msgid "Back To Homepage"
+msgstr ""
+
+#: archive.php:38 archive.php:40
+msgid "Archive for the"
+msgstr ""
+
+#: archive.php:38
+msgid "category"
+msgstr ""
+
+#: archive.php:40
+msgid "tag"
+msgstr ""
+
+#: archive.php:42 archive.php:44 archive.php:46
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:48
+msgid "Search Results"
+msgstr ""
+
+#: archive.php:50
+msgid "Posted by"
+msgstr ""
+
+#: archive.php:52
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:67 inc/templates/content-area.php:18 page.php:99 search.php:48
+#: single.php:110 template-fullwidth.php:100 template-leftsidebar.php:100
+#: template-rightsidebar.php:100
+msgid "Sorry! Nothing Found"
+msgstr ""
+
+#: comments.php:21
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:21 post-meta.php:15
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:35
+msgid "Reply"
+msgstr ""
+
+#: comments.php:47
+msgid "Comments are closed"
+msgstr ""
+
+#: functions.php:150
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:169
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:171
+msgid "Add your desire widgets here."
+msgstr ""
+
+#: functions.php:180
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:182
+msgid "Add widgets here to appear in your page sidebar"
+msgstr ""
+
+#: inc/functions/customizer.php:13
+msgid "Theme Options"
+msgstr ""
+
+#: inc/functions/customizer.php:14
+msgid ""
+"Change theme settings from below like logo, favicon, colors, social, footer "
+"texts etc"
+msgstr ""
+
+#: inc/functions/customizer.php:25
+msgid "Logo"
+msgstr ""
+
+#: inc/functions/customizer.php:38
+msgid "Upload Your Logo. Best size: Height: 33px, width: free size"
+msgstr ""
+
+#: inc/functions/customizer.php:53
+msgid "LazyLoader on/off"
+msgstr ""
+
+#: inc/functions/customizer.php:73 inc/functions/customizer.php:108
+#: inc/functions/customizer.php:238
+msgid "Enable"
+msgstr ""
+
+#: inc/functions/customizer.php:74 inc/functions/customizer.php:109
+#: inc/functions/customizer.php:239
+msgid "Disable"
+msgstr ""
+
+#: inc/functions/customizer.php:88
+msgid "Off-canvas Menu on/off"
+msgstr ""
+
+#: inc/functions/customizer.php:122
+msgid "Excerpt or Full Content"
+msgstr ""
+
+#: inc/functions/customizer.php:139
+msgid "Display excerpt or full content."
+msgstr ""
+
+#: inc/functions/customizer.php:143
+msgid "Excerpt"
+msgstr ""
+
+#: inc/functions/customizer.php:144
+msgid "Full content"
+msgstr ""
+
+#: inc/functions/customizer.php:155
+msgid "Theme Colors"
+msgstr ""
+
+#: inc/functions/customizer.php:167
+msgid "Theme primary color"
+msgstr ""
+
+#: inc/functions/customizer.php:180
+msgid "Sidebar bg color"
+msgstr ""
+
+#: inc/functions/customizer.php:193
+msgid "Header/Off Canvas bg Color"
+msgstr ""
+
+#: inc/functions/customizer.php:205
+msgid "Footer text/social icon color"
+msgstr ""
+
+#: inc/functions/customizer.php:216
+msgid "Featured Posts Setting"
+msgstr ""
+
+#: inc/functions/customizer.php:233
+msgid "Enable/Disable featured post section."
+msgstr ""
+
+#: inc/functions/customizer.php:252
+msgid "Select featured posts category."
+msgstr ""
+
+#: inc/functions/customizer.php:268
+msgid "Show Posts. Default is 12."
+msgstr ""
+
+#: inc/functions/customizer.php:282
+msgid "Header Image Title"
+msgstr ""
+
+#: inc/functions/customizer.php:293
+msgid "Put Banner Title."
+msgstr ""
+
+#: inc/functions/customizer.php:309
+msgid "Choose Sidebar"
+msgstr ""
+
+#: inc/functions/customizer.php:326
+msgid "Select sidebar."
+msgstr ""
+
+#: inc/functions/customizer.php:330
+msgid "Left"
+msgstr ""
+
+#: inc/functions/customizer.php:331
+msgid "Right"
+msgstr ""
+
+#: inc/functions/customizer.php:346
+msgid "Footer Setting"
+msgstr ""
+
+#: inc/functions/customizer.php:360
+msgid "Put your footer text here."
+msgstr ""
+
+#: inc/functions/customizer.php:377
+msgid "Facebook url"
+msgstr ""
+
+#: inc/functions/customizer.php:389
+msgid "Twitter url"
+msgstr ""
+
+#: inc/functions/customizer.php:402
+msgid "Google+ url"
+msgstr ""
+
+#: inc/functions/customizer.php:414
+msgid "LinkedIn url"
+msgstr ""
+
+#: inc/functions/customizer.php:427
+msgid "Youtube url"
+msgstr ""
+
+#: inc/functions/wp_list_comments.php:27
+msgid "Your comment is awaiting moderation"
+msgstr ""
+
+#: inc/templates/post-nav.php:12
+msgid "Previous Story"
+msgstr ""
+
+#: inc/templates/post-nav.php:29
+msgid "Next Story"
+msgstr ""
+
+#: inc/templates/primary-menu.php:10
+msgid "Primary Navigation"
+msgstr ""
+
+#: inc/templates/related-posts.php:21
+msgid "You Might Also Like"
+msgstr ""
+
+#: page.php:65 single.php:69 template-fullwidth.php:66
+#: template-leftsidebar.php:66 template-rightsidebar.php:66
+msgid "Pages:"
+msgstr ""
+
+#: post-formats.php:101
+msgid "Read More"
+msgstr ""
+
+#: post-meta.php:15
+msgid "No Comment"
+msgstr ""
+
+#: post-meta.php:15
+msgid "% Comments"
+msgstr ""
+
+#: post-meta.php:21
+msgid " Edit"
+msgstr ""
+
+#: search.php:35
+#, php-format
+msgid "Results for <span> %s</span>"
+msgstr ""
+
+#: searchform.php:4
+msgid "Search Here..."
+msgstr ""
+
+#: single.php:60
+msgid "Tagged In: "
+msgstr ""
