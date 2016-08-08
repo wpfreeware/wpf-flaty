@@ -86,16 +86,35 @@ Images used in screenshot.png were picked from [pexels] (https://www.pexels.com)
 & licensed under the [CC0](https://creativecommons.org/choose/zero/).
 
 Image sources:
-* https://www.pexels.com/photo/brown-fire-woods-60232/
-* https://www.pexels.com/photo/woman-s-portrait-during-daytime-34217/
+
+https://www.pexels.com/photo/person-standing-on-a-ground-with-dry-leaves-133262/
+https://www.pexels.com/photo/food-plate-chocolate-dessert-132694/
+https://www.pexels.com/photo/shallow-focus-photography-of-smiling-blonde-haired-woman-129868/
+https://www.pexels.com/photo/white-and-brown-short-coated-puppy-130765/
+https://www.pexels.com/photo/headphone-smartphone-earphone-music-7417/
+https://www.pexels.com/photo/photography-of-orange-brown-and-white-face-of-cat-128576/
+https://www.pexels.com/photo/person-in-white-sneakers-on-green-grass-near-flowering-shrub-127870/
+https://www.pexels.com/photo/stainless-steel-fork-and-white-ceramic-plate-with-food-on-top-on-brown-wooden-table-127255/
+https://www.pexels.com/photo/man-inside-leafy-round-tunnel-116230/
+https://www.pexels.com/photo/bread-food-breakfast-supper-72741/
+https://www.pexels.com/photo/orange-dry-leaves-on-the-ground-inside-forest-under-clear-sky-30567/
+https://www.pexels.com/photo/brown-fire-woods-60232/
+
+
 
 == Fonts ==
 
-1. [Source Sans Pro] (https://www.google.com/fonts/specimen/Source+Sans+Pro) - [License] (http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
+1. Source Sans Pro 
+Link: https://www.google.com/fonts/specimen/Source+Sans+Pro 
+License: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 
-2. [Raleway] (https://www.google.com/fonts/specimen/Raleway) - [License] (http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
+2. Raleway 
+Link: https://www.google.com/fonts/specimen/Raleway 
+License: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 
-3. [Lobster] (https://www.google.com/fonts/specimen/Lobster) - [License] (http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
+3. Lobster 
+Link: https://www.google.com/fonts/specimen/Lobster 
+License: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 
 
 
