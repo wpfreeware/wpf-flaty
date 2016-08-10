@@ -1,4 +1,11 @@
 <?php
+/*
+ *	This file contains comment contents
+ *
+ *	since wpf-flaty 1.0 
+ */
+?>
+<?php
 
 /*-----------------------------------------------------------------------------------*/
 # Custom Comments Template
@@ -38,8 +45,4 @@ function wpf_flaty_custom_comments($comment, $args, $depth) {
 	  </div>
 	</li>	
 	
-<?php
-}
-
-
-?>
+<?php }

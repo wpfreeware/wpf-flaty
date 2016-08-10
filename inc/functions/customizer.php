@@ -1,3 +1,10 @@
+<?php
+/*
+ *	This file contains custom options
+ *
+ *	since wpf-flaty 1.0 
+ */
+?>
 <?php 
 
 function wpf_flaty_customizer_register( $wp_customize ) {
@@ -577,7 +584,3 @@ function wpf_flaty_theme_color_css()
 	echo $flaty_theme_color;
 }
 add_action( 'wp_head', 'wpf_flaty_theme_color_css');
-
-
-
-?>
