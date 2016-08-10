@@ -35,7 +35,8 @@ $wp_customize->add_setting( 'wpf_flaty_logo_uploader' , array(
 
 
 $wp_customize->add_control( new WP_Customize_Image_Control( $wp_customize, 'wpf_flaty_logo_uploader', array(
-	'label'        => __( 'Upload Your Logo. Best size: Height: 33px, width: free size', 'wpf-flaty' ),
+	'label'        => __( 'Upload Your Logo. Best size: Height: 33px, width: free size.', 'wpf-flaty' ),
+	'description' => __('This option is <b>deprecated</b> Since WP 4.5. Flaty includes native logo support. Please upload your logo from <b>Site Identity</b> section.', 'wpf-flaty'),
 	'section'    => 'wpf_flaty_logo_upload_section',
 	'settings'   => 'wpf_flaty_logo_uploader',
 ) ) );

@@ -78,6 +78,16 @@ function wpf_flaty_setup() {
 	add_theme_support( 'custom-background', array( 'default-color' => '#37353A') );
 
 	/*
+	 * Enable custom logo
+	 */		
+	add_theme_support( 'custom-logo', array(
+		'height'      => 33,
+		'flex-height' => false,
+		'flex-width'  => true,
+		'header-text' => array( 'site-title', 'site-description' ),
+	) );
+
+	/*
 	 * Custom Header image support
 	 */	
 	 
