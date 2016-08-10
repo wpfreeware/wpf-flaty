@@ -389,7 +389,7 @@ iframe{
 #feature-post {
   display: inline;
   float: left; 
-  margin-top: 74px;
+  margin-top: 63px;
   width: 100%;
 }
 
@@ -2162,6 +2162,7 @@ pre{
 	.feature-iteam li {width: 33.33%;}
 	.comments-area {padding: 35px 20px;}
 	.sidebar{margin-bottom:15px;margin-top:15px;}
+	#feature-post {margin-top: 63px;}
 }
 
 
@@ -2189,7 +2190,6 @@ pre{
 	.feature-iteam li {width: 50%;}
 	.post-meta > div{margin-bottom: 5px;}
 	.post-link > a {font-size: 30px;}
-	#feature-post {margin-top: 128px;}
 	#img-banner{height: auto;}
 	.img-banner-content {padding: 82px 50px;}
 	.img-banner-content > h2 {font-size: 45px;}
@@ -2247,5 +2247,5 @@ pre{
 
 @media(max-width:320px ){
 	.img-banner-content > h2 {font-size: 30px;}
-	.breadcrumb-area .breadcrumb > li {font-size: 14px;font-weight: normal;}	
+	.breadcrumb-area .breadcrumb > li {font-size: 14px;font-weight: normal;}
 }
