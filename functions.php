@@ -179,9 +179,9 @@ function wpf_flaty_widgets_areas() {
 		'name'          => __( 'Sidebar', 'wpf-flaty' ),
 		'id'            => 'wpf_flaty_primary_sidebar',
 		'description'   => __( 'Add your desire widgets here.', 'wpf-flaty' ),
-		'before_widget' => '<div class="sidebar-widget">',
+		'before_widget' => '<div id="%1$s" class="sidebar-widget %2$s">',
 		'after_widget'  => '</div>',
-		'before_title'  => '<h2>',
+		'before_title'  => '<h2 class="widgettitle" >',
 		'after_title'   => '</h2>',
 	) );
 	
@@ -190,9 +190,9 @@ function wpf_flaty_widgets_areas() {
 		'name'          => __( 'Page Sidebar', 'wpf-flaty' ),
 		'id'            => 'wpf_flaty_page_sidebar',
 		'description'   => __( 'Add widgets here to appear in your page sidebar', 'wpf-flaty' ),
-		'before_widget' => '<div class="sidebar-widget">',
+		'before_widget' => '<div id="%1$s" class="sidebar-widget %2$s">',
 		'after_widget'  => '</div>',
-		'before_title'  => '<h2>',
+		'before_title'  => '<h2 class="widgettitle">',
 		'after_title'   => '</h2>',
 	) );
 	
