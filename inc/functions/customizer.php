@@ -8,9 +8,6 @@
 <?php 
 
 function wpf_flaty_customizer_register( $wp_customize ) {
-   
- 
-$wp_customize->get_setting( 'blogname' )->transport = 'postMessage';
 
 ////////////////////////////   
 // theme option panel
@@ -325,8 +322,8 @@ $wp_customize->add_section( 'wpf_flaty_footer_section' , array(
 // footer text 
 
 $wp_customize->add_setting( 'wpf_flaty_footer_text' , array(
+	'default' => '',
 	'sanitize_callback' => 'sanitize_text_field',
-	'transport' => 'postMessage',
 ) );
 
 
