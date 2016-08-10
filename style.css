@@ -1249,14 +1249,14 @@ iframe{
 #img-banner{
 	display: inline;
 	float: left;
-	height: 320px;
+	height: auto;
 	position: relative;	
 	width: 100%;
 }
 
 
 #img-banner>img{
-	height: 100%;
+	height: auto;
 }
 
 
@@ -2190,7 +2190,7 @@ pre{
 	.post-meta > div{margin-bottom: 5px;}
 	.post-link > a {font-size: 30px;}
 	#feature-post {margin-top: 128px;}
-	#img-banner{height: 250px;}
+	#img-banner{height: auto;}
 	.img-banner-content {padding: 82px 50px;}
 	.img-banner-content > h2 {font-size: 45px;}
 	h2 {font-size: 25px;line-height: 30px;}
