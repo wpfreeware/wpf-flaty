@@ -50,7 +50,11 @@ where you will find all those options like colorpicker, image uploader, social s
 
 #### How do I post videos & audios with the video/audio post formats?
 
-Answer: Paste your video/audio embeeded code into the WordPress edior. Make sure to pur your code in the text mode not visual.
+Answer: Paste your video/audio url into the WordPress editor, select video/audio post format & hit publish.
+
+#### How do I post Quote post formats?
+
+Answer: Write & select text with the blockquote from WordPress post editor bar, select quote post format & hit publish
 
 #### How do I post Quote post formats?
 
