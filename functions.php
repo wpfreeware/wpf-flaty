@@ -4,19 +4,19 @@
 // Load enqueue
 //////////////////////
 
-include_once( 'inc/functions/enqueue.php' );
+require_once( 'inc/functions/enqueue.php' );
 
 //////////////////////
 // Theme customizer
 //////////////////////
 
-include_once( 'inc/functions/customizer.php' );
+require_once( 'inc/functions/customizer.php' );
 
 //////////////////////
 // Comments list
 //////////////////////
 
-include_once( 'inc/functions/wp_list_comments.php' );
+require_once( 'inc/functions/wp_list_comments.php' );
 
 
 ///////////////////////////////////////
@@ -110,6 +110,7 @@ function wpf_flaty_setup() {
 
 	/*
 	 * Enable support for Post Thumbnails on posts and pages.
+	 * & custom image sizes
 	 *
 	 * See: https://codex.wordpress.org/Function_Reference/add_theme_support#Post_Thumbnails
 	 */
@@ -123,7 +124,6 @@ function wpf_flaty_setup() {
 	 * Apply theme's stylesheet to the visual editor.
 	 *
 	 * @uses add_editor_style() Links a stylesheet to visual editor
-	 * @uses get_stylesheet_uri() Returns URI of theme stylesheet
 	 */
 	 
 
