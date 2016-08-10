@@ -17,7 +17,7 @@ $wp_customize->add_panel( 'wpf_flaty_theme_option', array(
    
 
 ////////////////////////////
-// logo & favicon section 
+// logo section 
 ////////////////////////////
 
 
@@ -271,35 +271,6 @@ $wp_customize->add_control( new WP_Customize_Control( $wp_customize, 'wpf_flaty_
 	'settings'   => 'wpf_flaty_featured_posts_count',
 ) ) );
 
-
-
-
-
-///////////////////////////
-// Custom Header Title
-////////////////////////
-
-$wp_customize->add_section( 'wpf_flaty_banner_section' , array(
-    'title'      => __( 'Header Image Title', 'wpf-flaty' ),
-	'priority' => 70,
-) );
-
-$wp_customize->add_setting( 'wpf_flaty_banner_title' , array(
-	'default'     => '',
-	'transport' => 'postMessage',
-	'sanitize_callback' => 'sanitize_text_field',
-) );
-
-$wp_customize->add_control( new WP_Customize_Control( $wp_customize, 'wpf_flaty_banner_title', array(
-	'label'        => __( 'Put Banner Title.', 'wpf-flaty' ),
-	'section'    => 'wpf_flaty_banner_section',
-	'settings'   => 'wpf_flaty_banner_title',
-) ) );
-
-
-
-
-
 /////////////////////////////////
 // Sidebar Settings
 //////////////////////////////////
@@ -333,11 +304,6 @@ $wp_customize->add_control(
         ),
     )
 );
-
-
-
-
-
 
 ////////////////////
 // Footer section
