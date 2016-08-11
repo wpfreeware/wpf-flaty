@@ -90,16 +90,27 @@ Images used in screenshot.png were picked from [pexels] (https://www.pexels.com)
 Image sources:
 
 https://www.pexels.com/photo/person-standing-on-a-ground-with-dry-leaves-133262/
+
 https://www.pexels.com/photo/food-plate-chocolate-dessert-132694/
+
 https://www.pexels.com/photo/shallow-focus-photography-of-smiling-blonde-haired-woman-129868/
+
 https://www.pexels.com/photo/white-and-brown-short-coated-puppy-130765/
+
 https://www.pexels.com/photo/headphone-smartphone-earphone-music-7417/
+
 https://www.pexels.com/photo/photography-of-orange-brown-and-white-face-of-cat-128576/
+
 https://www.pexels.com/photo/person-in-white-sneakers-on-green-grass-near-flowering-shrub-127870/
+
 https://www.pexels.com/photo/stainless-steel-fork-and-white-ceramic-plate-with-food-on-top-on-brown-wooden-table-127255/
+
 https://www.pexels.com/photo/man-inside-leafy-round-tunnel-116230/
+
 https://www.pexels.com/photo/bread-food-breakfast-supper-72741/
+
 https://www.pexels.com/photo/orange-dry-leaves-on-the-ground-inside-forest-under-clear-sky-30567/
+
 https://www.pexels.com/photo/brown-fire-woods-60232/
 
 #### Fonts
@@ -115,7 +126,9 @@ https://www.pexels.com/photo/brown-fire-woods-60232/
 #### Bootstrap
 
 Link : http://getbootstrap.com/
+
 License URL: https://github.com/twbs/bootstrap/blob/master/LICENSE
+
 License URL: https://creativecommons.org/licenses/by/3.0/
 
 
