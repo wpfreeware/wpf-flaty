@@ -48,7 +48,7 @@ add_action( 'wp_head', 'wpf_flaty_push_bottom_header_area' );
  * @since WpF Flaty 1.0
  */
 if ( ! isset( $content_width ) ) {
-	$content_width = 710;
+	$content_width = 1140;
 }
 
 
