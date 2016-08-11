@@ -4,19 +4,19 @@
 // Load enqueue
 //////////////////////
 
-include_once( 'inc/functions/enqueue.php' );
+require_once( 'inc/functions/enqueue.php' );
 
 //////////////////////
 // Theme customizer
 //////////////////////
 
-include_once( 'inc/functions/customizer.php' );
+require_once( 'inc/functions/customizer.php' );
 
 //////////////////////
 // Comments list
 //////////////////////
 
-include_once( 'inc/functions/wp_list_comments.php' );
+require_once( 'inc/functions/wp_list_comments.php' );
 
 
 ///////////////////////////////////////
@@ -48,7 +48,7 @@ add_action( 'wp_head', 'wpf_flaty_push_bottom_header_area' );
  * @since WpF Flaty 1.0
  */
 if ( ! isset( $content_width ) ) {
-	$content_width = 710;
+	$content_width = 1140;
 }
 
 
@@ -78,6 +78,16 @@ function wpf_flaty_setup() {
 	add_theme_support( 'custom-background', array( 'default-color' => '#37353A') );
 
 	/*
+	 * Enable custom logo
+	 */		
+	add_theme_support( 'custom-logo', array(
+		'height'      => 33,
+		'flex-height' => false,
+		'flex-width'  => true,
+		'header-text' => array( 'site-title', 'site-description' ),
+	) );
+
+	/*
 	 * Custom Header image support
 	 */	
 	 
@@ -100,6 +110,7 @@ function wpf_flaty_setup() {
 
 	/*
 	 * Enable support for Post Thumbnails on posts and pages.
+	 * & custom image sizes
 	 *
 	 * See: https://codex.wordpress.org/Function_Reference/add_theme_support#Post_Thumbnails
 	 */
@@ -113,7 +124,6 @@ function wpf_flaty_setup() {
 	 * Apply theme's stylesheet to the visual editor.
 	 *
 	 * @uses add_editor_style() Links a stylesheet to visual editor
-	 * @uses get_stylesheet_uri() Returns URI of theme stylesheet
 	 */
 	 
 
@@ -169,9 +179,9 @@ function wpf_flaty_widgets_areas() {
 		'name'          => __( 'Sidebar', 'wpf-flaty' ),
 		'id'            => 'wpf_flaty_primary_sidebar',
 		'description'   => __( 'Add your desire widgets here.', 'wpf-flaty' ),
-		'before_widget' => '<div class="sidebar-widget">',
+		'before_widget' => '<div id="%1$s" class="sidebar-widget %2$s">',
 		'after_widget'  => '</div>',
-		'before_title'  => '<h2>',
+		'before_title'  => '<h2 class="widgettitle" >',
 		'after_title'   => '</h2>',
 	) );
 	
@@ -180,9 +190,9 @@ function wpf_flaty_widgets_areas() {
 		'name'          => __( 'Page Sidebar', 'wpf-flaty' ),
 		'id'            => 'wpf_flaty_page_sidebar',
 		'description'   => __( 'Add widgets here to appear in your page sidebar', 'wpf-flaty' ),
-		'before_widget' => '<div class="sidebar-widget">',
+		'before_widget' => '<div id="%1$s" class="sidebar-widget %2$s">',
 		'after_widget'  => '</div>',
-		'before_title'  => '<h2>',
+		'before_title'  => '<h2 class="widgettitle">',
 		'after_title'   => '</h2>',
 	) );
 	
@@ -265,5 +275,3 @@ function wpf_flaty_post_link_attributes_previous($output) {
     $injection = 'class="prev"';
     return str_replace('<a href=', '<a '.$injection.' href=', $output);
 }
-
-?>

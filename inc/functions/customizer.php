@@ -1,9 +1,13 @@
+<?php
+/*
+ *	This file contains custom options
+ *
+ *	since wpf-flaty 1.0 
+ */
+?>
 <?php 
 
 function wpf_flaty_customizer_register( $wp_customize ) {
-   
- 
-$wp_customize->get_setting( 'blogname' )->transport = 'postMessage';
 
 ////////////////////////////   
 // theme option panel
@@ -17,7 +21,7 @@ $wp_customize->add_panel( 'wpf_flaty_theme_option', array(
    
 
 ////////////////////////////
-// logo & favicon section 
+// logo section 
 ////////////////////////////
 
 
@@ -35,7 +39,8 @@ $wp_customize->add_setting( 'wpf_flaty_logo_uploader' , array(
 
 
 $wp_customize->add_control( new WP_Customize_Image_Control( $wp_customize, 'wpf_flaty_logo_uploader', array(
-	'label'        => __( 'Upload Your Logo. Best size: Height: 33px, width: free size', 'wpf-flaty' ),
+	'label'        => __( 'Upload Your Logo. Best size: Height: 33px, width: free size.', 'wpf-flaty' ),
+	'description' => __('This option is <b>deprecated</b> Since WP 4.5. Flaty includes native logo support. Please upload your logo from <b>Site Identity</b> section.', 'wpf-flaty'),
 	'section'    => 'wpf_flaty_logo_upload_section',
 	'settings'   => 'wpf_flaty_logo_uploader',
 ) ) );
@@ -270,35 +275,6 @@ $wp_customize->add_control( new WP_Customize_Control( $wp_customize, 'wpf_flaty_
 	'settings'   => 'wpf_flaty_featured_posts_count',
 ) ) );
 
-
-
-
-
-///////////////////////////
-// Custom Header Title
-////////////////////////
-
-$wp_customize->add_section( 'wpf_flaty_banner_section' , array(
-    'title'      => __( 'Header Image Title', 'wpf-flaty' ),
-	'priority' => 70,
-) );
-
-$wp_customize->add_setting( 'wpf_flaty_banner_title' , array(
-	'default'     => '',
-	'transport' => 'postMessage',
-	'sanitize_callback' => 'sanitize_text_field',
-) );
-
-$wp_customize->add_control( new WP_Customize_Control( $wp_customize, 'wpf_flaty_banner_title', array(
-	'label'        => __( 'Put Banner Title.', 'wpf-flaty' ),
-	'section'    => 'wpf_flaty_banner_section',
-	'settings'   => 'wpf_flaty_banner_title',
-) ) );
-
-
-
-
-
 /////////////////////////////////
 // Sidebar Settings
 //////////////////////////////////
@@ -333,11 +309,6 @@ $wp_customize->add_control(
     )
 );
 
-
-
-
-
-
 ////////////////////
 // Footer section
 ////////////////////
@@ -351,8 +322,8 @@ $wp_customize->add_section( 'wpf_flaty_footer_section' , array(
 // footer text 
 
 $wp_customize->add_setting( 'wpf_flaty_footer_text' , array(
+	'default' => '',
 	'sanitize_callback' => 'sanitize_text_field',
-	'transport' => 'postMessage',
 ) );
 
 
@@ -610,7 +581,3 @@ function wpf_flaty_theme_color_css()
 	echo $flaty_theme_color;
 }
 add_action( 'wp_head', 'wpf_flaty_theme_color_css');
-
-
-
-?>

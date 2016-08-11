@@ -18,14 +18,14 @@
 	
 **/
 
-jQuery(function($){
+(function ($) {
 
 
   /* ----------------------------------------------------------- */
   /*  1. Off Canvass MENU
   /* ----------------------------------------------------------- */
 
-    jQuery("#mobile-menu").mobileMenu({
+    $("#mobile-menu").mobileMenu({
         MenuWidth: 300,
         SlideSpeed : 300,
         WindowsMaxWidth : 767,
@@ -48,11 +48,11 @@ jQuery(function($){
 	/*  3. Pushdown content area if header image not exist
 	/* ----------------------------------------------------------- */
 
-	if (jQuery('#page #feature-post').length > 0){  // return's true if element is present
-   		jQuery('#main-content').addClass('courseArchive_pushup');
+	if ($('#page #feature-post').length > 0){  // return's true if element is present
+   		$('#main-content').addClass('courseArchive_pushup');
 	}
 	else {
-	 	jQuery('#main-content').addClass('courseArchive_pushdown');
+	 	$('#main-content').addClass('courseArchive_pushdown');
 	}     
 	 
 
@@ -64,18 +64,18 @@ jQuery(function($){
 
 	//Check to see if the window is top if not then display button
 
-	  jQuery(window).scroll(function(){
+	  $(window).scroll(function(){
 	    if ($(this).scrollTop() > 300) {
-	      jQuery('.scrollToTop').fadeIn();
+	      $('.scrollToTop').fadeIn();
 	    } else {
-	      jQuery('.scrollToTop').fadeOut();
+	      $('.scrollToTop').fadeOut();
 	    }
 	  });
 	   
 	  //Click event to scroll to top
 
-	  jQuery('.scrollToTop').click(function(){
-	    jQuery('html, body').animate({scrollTop : 0},800);
+	  $('.scrollToTop').click(function(){
+	    $('html, body').animate({scrollTop : 0},800);
 	    return false;
 	  });
 
@@ -84,7 +84,7 @@ jQuery(function($){
 	/*  6. Related item slider
 	/* ----------------------------------------------------------- */
 
-	jQuery('.popular-item').slick({
+	$('.popular-item').slick({
 		  dots: false,
 		  infinite: true,
 		  speed: 300,
@@ -124,7 +124,7 @@ jQuery(function($){
 	/*  7. LazyLoader 
 	/* ----------------------------------------------------------- */ 
 	
-	jQuery(".fakeloader").fakeLoader({
+	$(".fakeloader").fakeLoader({
         timeToHide:1200,
         bgColor:"#2ecc71",
         spinner:"spinner1"
@@ -133,4 +133,4 @@ jQuery(function($){
     
 	
 	
-});
+}(jQuery));

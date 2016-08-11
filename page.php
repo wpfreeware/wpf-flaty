@@ -29,7 +29,7 @@
                       
 					<?php if ( have_posts() ) : while ( have_posts() ) : the_post();  ?>					  
 					
-					  <div class="blog-archive blog-detals">
+					  <div id="post-<?php the_ID(); ?>" <?php post_class('blog-archive blog-detals'); ?>>
 						
 						
                         <!-- Start Single Post -->

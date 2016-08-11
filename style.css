@@ -389,7 +389,7 @@ iframe{
 #feature-post {
   display: inline;
   float: left; 
-  margin-top: 74px;
+  margin-top: 63px;
   width: 100%;
 }
 
@@ -1249,14 +1249,14 @@ iframe{
 #img-banner{
 	display: inline;
 	float: left;
-	height: 320px;
+	height: auto;
 	position: relative;	
 	width: 100%;
 }
 
 
 #img-banner>img{
-	height: 100%;
+	height: auto;
 }
 
 
@@ -2021,10 +2021,11 @@ blockquote cite {
 	z-index:100;
 }
 
-.screen-reader-text {
+sidebar-widget .screen-reader-text {
   width: 0px !important;
   height: 0px !important;
   text-indent: -9999px;
+  display: block;
 }
 	
 .wp-caption-text{
@@ -2051,9 +2052,16 @@ blockquote cite {
 }
 
 .sidebar-widget .search-field {
-	width:140%;
-	padding:5px;
-	border:none;
+	padding: 5px;
+    border: none;
+    width: 100%;
+}
+
+.sidebar-widget .search-submit {
+	display: inline-block;
+    border: 0;
+    background: #fff;
+    padding: 5px 8px;
 }
 
 pre{
@@ -2154,6 +2162,7 @@ pre{
 	.feature-iteam li {width: 33.33%;}
 	.comments-area {padding: 35px 20px;}
 	.sidebar{margin-bottom:15px;margin-top:15px;}
+	#feature-post {margin-top: 63px;}
 }
 
 
@@ -2181,8 +2190,7 @@ pre{
 	.feature-iteam li {width: 50%;}
 	.post-meta > div{margin-bottom: 5px;}
 	.post-link > a {font-size: 30px;}
-	#feature-post {margin-top: 128px;}
-	#img-banner{height: 250px;}
+	#img-banner{height: auto;}
 	.img-banner-content {padding: 82px 50px;}
 	.img-banner-content > h2 {font-size: 45px;}
 	h2 {font-size: 25px;line-height: 30px;}
@@ -2198,7 +2206,6 @@ pre{
 	.nav-growpop div {width: 350px;}
 	.nav-growpop span {font-size: 0.5em;}
 	.nav-growpop h3 {font-size: 1em;}	
-	
 
 }
 
@@ -2240,5 +2247,5 @@ pre{
 
 @media(max-width:320px ){
 	.img-banner-content > h2 {font-size: 30px;}
-	.breadcrumb-area .breadcrumb > li {font-size: 14px;font-weight: normal;}	
+	.breadcrumb-area .breadcrumb > li {font-size: 14px;font-weight: normal;}
 }

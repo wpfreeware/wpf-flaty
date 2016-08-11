@@ -1,5 +1,11 @@
 <?php
-
+/*
+ *	This file contains theme scripts & css
+ *
+ *	since wpf-flaty 1.0 
+ */
+?>
+<?php
 
 function wpf_flaty_scripts() {
 
@@ -62,13 +68,4 @@ function wpf_flaty_scripts() {
     wp_enqueue_style( 'flaty_style', get_template_directory_uri() . '/style.css','all' );		
 
 }
-
-
-if (!is_admin()) add_action("wp_enqueue_scripts", "wpf_flaty_scripts", 11);
-
-
-
-
-
-
-?>
+add_action( "wp_enqueue_scripts", "wpf_flaty_scripts" );
