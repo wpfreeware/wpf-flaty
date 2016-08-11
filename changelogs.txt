@@ -1,3 +1,13 @@
+# 1.1.8
+* Fix screen-reader-text class in sidebar
+* Added native custom logo support for 4.5+
+* Added the_ID() & post_class() into single.php & page.php loops
+* Fixed typo
+* Removed header image title customizer option as it doesn't make any sense
+* Removed php closing tag from functions.php
+* Replaced include_once with required_once in functions.php
+* Fixed jetpack lightbox gallery, previously not working on click.
+
 # 1.1.7
 * Added conditional option for author bio, will appear if author description is not empty.
 * Removed unnecessary static texts
