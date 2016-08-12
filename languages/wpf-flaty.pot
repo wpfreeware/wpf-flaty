@@ -1,21 +1,20 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wpf-flaty\n"
-"POT-Creation-Date: 2016-01-02 19:05+0600\n"
-"PO-Revision-Date: 2016-01-02 19:05+0600\n"
+"POT-Creation-Date: 2016-08-12 15:08+0600\n"
+"PO-Revision-Date: 2016-08-12 15:08+0600\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.6\n"
+"X-Generator: Poedit 1.8.8\n"
 "X-Poedit-Basepath: ..\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-KeywordsList: __;_e;esc_html\n"
-"X-Poedit-SearchPath-0: languages\n"
-"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: .\n"
 
 #: 404.php:22
 msgid "404"
@@ -79,167 +78,169 @@ msgstr ""
 msgid "Comments are closed"
 msgstr ""
 
-#: functions.php:150
+#: content.php:32
+msgid "Read More"
+msgstr ""
+
+#: functions.php:160
 msgid "Primary Menu"
 msgstr ""
 
-#: functions.php:169
+#: functions.php:179
 msgid "Sidebar"
 msgstr ""
 
-#: functions.php:171
+#: functions.php:181
 msgid "Add your desire widgets here."
 msgstr ""
 
-#: functions.php:180
+#: functions.php:190
 msgid "Page Sidebar"
 msgstr ""
 
-#: functions.php:182
+#: functions.php:192
 msgid "Add widgets here to appear in your page sidebar"
 msgstr ""
 
-#: inc/functions/customizer.php:13
+#: inc/functions/customizer.php:17
 msgid "Theme Options"
 msgstr ""
 
-#: inc/functions/customizer.php:14
+#: inc/functions/customizer.php:18
 msgid ""
 "Change theme settings from below like logo, favicon, colors, social, footer "
 "texts etc"
 msgstr ""
 
-#: inc/functions/customizer.php:25
+#: inc/functions/customizer.php:29
 msgid "Logo"
 msgstr ""
 
-#: inc/functions/customizer.php:38
-msgid "Upload Your Logo. Best size: Height: 33px, width: free size"
+#: inc/functions/customizer.php:42
+msgid "Upload Your Logo. Best size: Height: 33px, width: free size."
 msgstr ""
 
-#: inc/functions/customizer.php:53
+#: inc/functions/customizer.php:43
+msgid ""
+"This option is <b>deprecated</b> Since WP 4.5. Flaty includes native logo "
+"support. Please upload your logo from <b>Site Identity</b> section."
+msgstr ""
+
+#: inc/functions/customizer.php:58
 msgid "LazyLoader on/off"
 msgstr ""
 
-#: inc/functions/customizer.php:73 inc/functions/customizer.php:108
-#: inc/functions/customizer.php:238
+#: inc/functions/customizer.php:78 inc/functions/customizer.php:113
+#: inc/functions/customizer.php:243
 msgid "Enable"
 msgstr ""
 
-#: inc/functions/customizer.php:74 inc/functions/customizer.php:109
-#: inc/functions/customizer.php:239
+#: inc/functions/customizer.php:79 inc/functions/customizer.php:114
+#: inc/functions/customizer.php:244
 msgid "Disable"
 msgstr ""
 
-#: inc/functions/customizer.php:88
+#: inc/functions/customizer.php:93
 msgid "Off-canvas Menu on/off"
 msgstr ""
 
-#: inc/functions/customizer.php:122
+#: inc/functions/customizer.php:127
 msgid "Excerpt or Full Content"
 msgstr ""
 
-#: inc/functions/customizer.php:139
+#: inc/functions/customizer.php:144
 msgid "Display excerpt or full content."
 msgstr ""
 
-#: inc/functions/customizer.php:143
+#: inc/functions/customizer.php:148
 msgid "Excerpt"
 msgstr ""
 
-#: inc/functions/customizer.php:144
+#: inc/functions/customizer.php:149
 msgid "Full content"
 msgstr ""
 
-#: inc/functions/customizer.php:155
+#: inc/functions/customizer.php:160
 msgid "Theme Colors"
 msgstr ""
 
-#: inc/functions/customizer.php:167
+#: inc/functions/customizer.php:172
 msgid "Theme primary color"
 msgstr ""
 
-#: inc/functions/customizer.php:180
+#: inc/functions/customizer.php:185
 msgid "Sidebar bg color"
 msgstr ""
 
-#: inc/functions/customizer.php:193
+#: inc/functions/customizer.php:198
 msgid "Header/Off Canvas bg Color"
 msgstr ""
 
-#: inc/functions/customizer.php:205
+#: inc/functions/customizer.php:210
 msgid "Footer text/social icon color"
 msgstr ""
 
-#: inc/functions/customizer.php:216
+#: inc/functions/customizer.php:221
 msgid "Featured Posts Setting"
 msgstr ""
 
-#: inc/functions/customizer.php:233
+#: inc/functions/customizer.php:238
 msgid "Enable/Disable featured post section."
 msgstr ""
 
-#: inc/functions/customizer.php:252
+#: inc/functions/customizer.php:257
 msgid "Select featured posts category."
 msgstr ""
 
-#: inc/functions/customizer.php:268
+#: inc/functions/customizer.php:273
 msgid "Show Posts. Default is 12."
 msgstr ""
 
-#: inc/functions/customizer.php:282
-msgid "Header Image Title"
-msgstr ""
-
-#: inc/functions/customizer.php:293
-msgid "Put Banner Title."
-msgstr ""
-
-#: inc/functions/customizer.php:309
+#: inc/functions/customizer.php:285
 msgid "Choose Sidebar"
 msgstr ""
 
-#: inc/functions/customizer.php:326
+#: inc/functions/customizer.php:302
 msgid "Select sidebar."
 msgstr ""
 
-#: inc/functions/customizer.php:330
+#: inc/functions/customizer.php:306
 msgid "Left"
 msgstr ""
 
-#: inc/functions/customizer.php:331
+#: inc/functions/customizer.php:307
 msgid "Right"
 msgstr ""
 
-#: inc/functions/customizer.php:346
+#: inc/functions/customizer.php:317
 msgid "Footer Setting"
 msgstr ""
 
-#: inc/functions/customizer.php:360
+#: inc/functions/customizer.php:331
 msgid "Put your footer text here."
 msgstr ""
 
-#: inc/functions/customizer.php:377
+#: inc/functions/customizer.php:348
 msgid "Facebook url"
 msgstr ""
 
-#: inc/functions/customizer.php:389
+#: inc/functions/customizer.php:360
 msgid "Twitter url"
 msgstr ""
 
-#: inc/functions/customizer.php:402
+#: inc/functions/customizer.php:373
 msgid "Google+ url"
 msgstr ""
 
-#: inc/functions/customizer.php:414
+#: inc/functions/customizer.php:385
 msgid "LinkedIn url"
 msgstr ""
 
-#: inc/functions/customizer.php:427
+#: inc/functions/customizer.php:398
 msgid "Youtube url"
 msgstr ""
 
-#: inc/functions/wp_list_comments.php:27
+#: inc/functions/wp_list_comments.php:34
 msgid "Your comment is awaiting moderation"
 msgstr ""
 
@@ -259,13 +260,13 @@ msgstr ""
 msgid "You Might Also Like"
 msgstr ""
 
+#: inc/templates/searchform.php:4
+msgid "Search Here..."
+msgstr ""
+
 #: page.php:65 single.php:69 template-fullwidth.php:66
 #: template-leftsidebar.php:66 template-rightsidebar.php:66
 msgid "Pages:"
-msgstr ""
-
-#: post-formats.php:101
-msgid "Read More"
 msgstr ""
 
 #: post-meta.php:15
@@ -283,10 +284,6 @@ msgstr ""
 #: search.php:35
 #, php-format
 msgid "Results for <span> %s</span>"
-msgstr ""
-
-#: searchform.php:4
-msgid "Search Here..."
 msgstr ""
 
 #: single.php:60

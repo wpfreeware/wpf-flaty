@@ -82,7 +82,7 @@ function wpf_flaty_setup() {
 	 */		
 	add_theme_support( 'custom-logo', array(
 		'height'      => 33,
-		'flex-height' => false,
+		'flex-height' => true,
 		'flex-width'  => true,
 		'header-text' => array( 'site-title', 'site-description' ),
 	) );
@@ -94,7 +94,7 @@ function wpf_flaty_setup() {
 	$flaty_custom_header_args = array(
 		'width'                  => 1920,
 		'height'                 => 320,
-		'flex-height'            => false,
+		'flex-height'            => true,
 		'flex-width'             => true,
 		'uploads'                => true,
 		'random-default'         => true,
