@@ -70,7 +70,7 @@ You can do that by going to users > your profile
 
 # Quick Specs
 
-1. The main content width is 710px.
+1. The main content width is 1140px.
 2. The sidebar width is 300px.
 3. Default featured images are 750px wide by 415px high.
 4. 2 level nested menu
@@ -155,10 +155,17 @@ License URL: https://creativecommons.org/licenses/by/3.0/
 * Respond URL: https://github.com/scottjehl/Respond
 * Respond License: http://www.opensource.org/licenses/mit-license.php
 
-#### [Slick] (http://kenwheeler.github.io/slick/) - [License] (https://github.com/kenwheeler/slick/blob/master/LICENSE)
+#### Slick
+
+URL: http://kenwheeler.github.io/slick/ 
+License: https://github.com/kenwheeler/slick/blob/master/LICENSE
 
 
-#### [FakeLoader] (http://joaopereirawd.github.io/fakeLoader.js/) - [License] (https://github.com/joaopereirawd/fakeLoader.js/blob/master/LICENSE)
+#### FakeLoader
+URL: http://joaopereirawd.github.io/fakeLoader.js/ 
+License: https://github.com/joaopereirawd/fakeLoader.js/blob/master/LICENSE
 
 
-#### [Classie] (https://github.com/ded/bonzo) - [License] (https://github.com/ded/bonzo/blob/master/LICENSE)
+#### Classie
+URL: https://github.com/ded/bonzo 
+License: https://github.com/ded/bonzo/blob/master/LICENSE
