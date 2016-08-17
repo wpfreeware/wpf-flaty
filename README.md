@@ -132,7 +132,11 @@ License URL: https://github.com/twbs/bootstrap/blob/master/LICENSE
 License URL: https://creativecommons.org/licenses/by/3.0/
 
 
-#### [Off Canvass Menu] (http://www.pixelademo.com/mobile-menu/) - [License] (http://opensource.org/licenses/MIT)
+#### Off Canvass Menu 
+
+URL: http://www.pixelademo.com/mobile-menu/ 
+
+License: http://opensource.org/licenses/MIT
 
 #### FontAwesome
 
