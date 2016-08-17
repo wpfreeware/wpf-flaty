@@ -70,7 +70,7 @@ You can do that by going to users > your profile
 
 # Quick Specs
 
-1. The main content width is 710px.
+1. The main content width is 1140px.
 2. The sidebar width is 300px.
 3. Default featured images are 750px wide by 415px high.
 4. 2 level nested menu
@@ -136,29 +136,55 @@ License URL: https://creativecommons.org/licenses/by/3.0/
 
 #### FontAwesome
 
-* URL : http://fortawesome.github.io/Font-Awesome/ 
-* License 1: http://scripts.sil.org/OFL
-* License 2: http://opensource.org/licenses/mit-license.html
-* License 3: http://creativecommons.org/licenses/by/3.0/
+URL : http://fortawesome.github.io/Font-Awesome/ 
 
-[Preloader] (http://joaopereirawd.github.io/fakeLoader.js/ ) - [License](http://opensource.org/licenses/mit-license.html)
+License 1: http://scripts.sil.org/OFL
 
-[UI Search] (http://www.codrops.com) - [License](http://www.opensource.org/licenses/mit-license.php)
+License 2: http://opensource.org/licenses/mit-license.html
 
+License 3: http://creativecommons.org/licenses/by/3.0/
 
+#### Preloader
+URL: http://joaopereirawd.github.io/fakeLoader.js/ 
 
-#### HTML5 Shiv & Respond
+License: http://opensource.org/licenses/mit-license.html
 
-* HTML5 Shiv URL: https://github.com/afarkas/html5shiv
-* HTML5 Shiv License: http://www.opensource.org/licenses/mit-license.php & http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+#### UI Search
 
-* Respond URL: https://github.com/scottjehl/Respond
-* Respond License: http://www.opensource.org/licenses/mit-license.php
+URL: http://www.codrops.com
 
-#### [Slick] (http://kenwheeler.github.io/slick/) - [License] (https://github.com/kenwheeler/slick/blob/master/LICENSE)
+License: http://www.opensource.org/licenses/mit-license.php
 
 
-#### [FakeLoader] (http://joaopereirawd.github.io/fakeLoader.js/) - [License] (https://github.com/joaopereirawd/fakeLoader.js/blob/master/LICENSE)
+
+#### HTML5 Shiv
+
+URL: https://github.com/afarkas/html5shiv
+
+License: http://www.opensource.org/licenses/mit-license.php & http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+
+#### Respond
+
+URL: https://github.com/scottjehl/Respond
+
+License: http://www.opensource.org/licenses/mit-license.php
+
+#### Slick
+
+URL: http://kenwheeler.github.io/slick/ 
+
+License: https://github.com/kenwheeler/slick/blob/master/LICENSE
 
 
-#### [Classie] (https://github.com/ded/bonzo) - [License] (https://github.com/ded/bonzo/blob/master/LICENSE)
+#### FakeLoader
+
+URL: http://joaopereirawd.github.io/fakeLoader.js/ 
+
+License: https://github.com/joaopereirawd/fakeLoader.js/blob/master/LICENSE
+
+
+#### Classie
+
+URL: https://github.com/ded/bonzo 
+
+License: https://github.com/ded/bonzo/blob/master/LICENSE

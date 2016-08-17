@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wpf-flaty\n"
-"POT-Creation-Date: 2016-08-12 15:08+0600\n"
-"PO-Revision-Date: 2016-08-12 15:08+0600\n"
+"POT-Creation-Date: 2016-08-15 13:45+0600\n"
+"PO-Revision-Date: 2016-08-15 13:45+0600\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Poedit-Basepath: ..\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html__\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: 404.php:22
@@ -100,6 +100,11 @@ msgstr ""
 
 #: functions.php:192
 msgid "Add widgets here to appear in your page sidebar"
+msgstr ""
+
+#: functions.php:239
+#, php-format
+msgid "Powered by %1$s | Theme by %2$s"
 msgstr ""
 
 #: inc/functions/customizer.php:17

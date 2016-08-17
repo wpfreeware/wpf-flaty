@@ -69,7 +69,7 @@ You can do that by going to users > your profile
 Quick Specs
 ======================
 
-1. The main content width is 710px.
+1. The main content width is 1140px.
 2. The sidebar width is 300px.
 3. Default featured images are 750px wide by 415px high.
 4. 2 level nested menu
