@@ -136,36 +136,55 @@ License URL: https://creativecommons.org/licenses/by/3.0/
 
 #### FontAwesome
 
-* URL : http://fortawesome.github.io/Font-Awesome/ 
-* License 1: http://scripts.sil.org/OFL
-* License 2: http://opensource.org/licenses/mit-license.html
-* License 3: http://creativecommons.org/licenses/by/3.0/
+URL : http://fortawesome.github.io/Font-Awesome/ 
 
-[Preloader] (http://joaopereirawd.github.io/fakeLoader.js/ ) - [License](http://opensource.org/licenses/mit-license.html)
+License 1: http://scripts.sil.org/OFL
 
-[UI Search] (http://www.codrops.com) - [License](http://www.opensource.org/licenses/mit-license.php)
+License 2: http://opensource.org/licenses/mit-license.html
+
+License 3: http://creativecommons.org/licenses/by/3.0/
+
+#### Preloader
+URL: http://joaopereirawd.github.io/fakeLoader.js/ 
+
+License: http://opensource.org/licenses/mit-license.html
+
+#### UI Search
+
+URL: http://www.codrops.com
+
+License: http://www.opensource.org/licenses/mit-license.php
 
 
 
-#### HTML5 Shiv & Respond
+#### HTML5 Shiv
 
-* HTML5 Shiv URL: https://github.com/afarkas/html5shiv
-* HTML5 Shiv License: http://www.opensource.org/licenses/mit-license.php & http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+URL: https://github.com/afarkas/html5shiv
 
-* Respond URL: https://github.com/scottjehl/Respond
-* Respond License: http://www.opensource.org/licenses/mit-license.php
+License: http://www.opensource.org/licenses/mit-license.php & http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+
+#### Respond
+
+URL: https://github.com/scottjehl/Respond
+
+License: http://www.opensource.org/licenses/mit-license.php
 
 #### Slick
 
 URL: http://kenwheeler.github.io/slick/ 
+
 License: https://github.com/kenwheeler/slick/blob/master/LICENSE
 
 
 #### FakeLoader
+
 URL: http://joaopereirawd.github.io/fakeLoader.js/ 
+
 License: https://github.com/joaopereirawd/fakeLoader.js/blob/master/LICENSE
 
 
 #### Classie
+
 URL: https://github.com/ded/bonzo 
+
 License: https://github.com/ded/bonzo/blob/master/LICENSE
