@@ -214,7 +214,7 @@ iframe{
   text-align: center;
   top: 0;
   width: 100%;
-  z-index: 999;
+  z-index: 99;
 }
 
 
@@ -389,10 +389,9 @@ iframe{
 #feature-post {
   display: inline;
   float: left; 
-  margin-top: 63px;
+  margin-top: 74px;
   width: 100%;
 }
-
 
 .courseArchive_pushdown{
 	padding-top: 74px;
@@ -1257,6 +1256,7 @@ iframe{
 
 #img-banner>img{
 	height: auto;
+	width: 100%;
 }
 
 
@@ -2162,7 +2162,6 @@ pre{
 	.feature-iteam li {width: 33.33%;}
 	.comments-area {padding: 35px 20px;}
 	.sidebar{margin-bottom:15px;margin-top:15px;}
-	#feature-post {margin-top: 63px;}
 }
 
 
@@ -2206,6 +2205,8 @@ pre{
 	.nav-growpop div {width: 350px;}
 	.nav-growpop span {font-size: 0.5em;}
 	.nav-growpop h3 {font-size: 1em;}	
+	#feature-post {margin-top: 129px;}
+	#main-content.courseArchive_pushup{margin-top: 40px;}
 
 }
 
@@ -2242,6 +2243,7 @@ pre{
   	.nav-growpop a.prev div {padding: 20px 140px 20px 40px;}
   	.nav-growpop a.next div {padding: 20px 40px 20px 140px;}
 	.post-video {height: 250px;}
+	
 }
 
 
