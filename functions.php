@@ -115,8 +115,8 @@ function wpf_flaty_setup() {
 	 * See: https://codex.wordpress.org/Function_Reference/add_theme_support#Post_Thumbnails
 	 */
 	add_theme_support( 'post-thumbnails' );
-	set_post_thumbnail_size( 750, 415, true ); // default size
-	add_image_size( 'wpf-flaty-post-image', 750, 415, true ); // post-thumb
+	set_post_thumbnail_size( 750, 415 ); // default size
+	add_image_size( 'wpf-flaty-post-image', 750, 415 ); // post-thumb
 	
 	
 	
