@@ -250,7 +250,7 @@ html {
   position: fixed;
   top: 15px;
   width: 150px;
-  z-index: 999;
+  z-index: 99;
 }
 .toogle-bar {
   background: inherit;
@@ -277,7 +277,7 @@ html {
   text-align: center;
   top: 25px;
   width: 20px;
-  z-index: 999;
+  z-index: 99;
 }
 
 @media (max-width: 767px) {
