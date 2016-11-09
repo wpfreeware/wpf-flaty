@@ -1,4 +1,4 @@
-# 1.1.8
+# 1.1.8 ( 25 Nov 2016 )
 * Fix screen-reader-text class in sidebar
 * Added native custom logo support for 4.5+
 * Added the_ID() & post_class() into single.php & page.php loops

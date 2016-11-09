@@ -32,7 +32,7 @@
 						  <?php if (have_posts()) : ?>
 							<div class="breadcrumb-area">                      
 							  <div class="breadcrumb">
-								<h2><?php printf( __( 'Results for <span> %s</span>', 'wpf-flaty' ),'<span>' . get_search_query() . '</span>'); ?></h2>
+								<h2><?php printf( __( 'Results for <span> %s</span>', 'wpf-flaty' ), get_search_query() ); ?></h2>
 							  </div>
 							</div> 								
 								

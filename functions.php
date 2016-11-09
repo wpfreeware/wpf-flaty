@@ -125,7 +125,6 @@ function wpf_flaty_setup() {
 	 *
 	 * @uses add_editor_style() Links a stylesheet to visual editor
 	 */
-	 
 
 	add_editor_style( 'css/editor.style.css' );
 
@@ -139,11 +138,6 @@ function wpf_flaty_setup() {
 	 */
 	add_theme_support( 'title-tag' );
 
-	/*
-	 * Enable support for Post Thumbnails on posts and pages.
-	 *
-	 * See: https://codex.wordpress.org/Function_Reference/add_theme_support#Post_Thumbnails
-	 */
 	/*
 	 * Switch default core markup for search form, comment form, and comments
 	 * to output valid HTML5.
