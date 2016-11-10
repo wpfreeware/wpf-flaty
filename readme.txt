@@ -1,6 +1,4 @@
-About Theme
-=========================
-Theme Name: WpF Flaty
+== About Theme ==
 Contributors: WpFreeware
 Contributors URI: http://www.wpfreeware.com/wpf-flaty-responsive-free-flat-wordpress-theme/
 Tags: full-width-template, one-column, custom-header, custom-colors, theme-options, threaded-comments, sticky-post, custom-background, custom-menu, editor-style, featured-images, gray, light, responsive-layout, right-sidebar, left-sidebar, translation-ready, two-columns
@@ -9,8 +7,7 @@ Tested up to: 4.6.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Description
-=====================
+== Description ==
 
 WpF Flaty designed especially flat technology in mind. If you are looking for a flat design WordPress theme then this theme is perfect for you. It's completely responsive, packed with left/right sidebar, fullwidth template, pre-designed widgets & lots more.
 
@@ -33,52 +30,45 @@ WpF Flaty designed especially flat technology in mind. If you are looking for a 
 * Font-Awesome icons
 * The GPL v3.0 or later license. :) Use it to make something cool.
 
-Installation
-=======================
+== Installation ==
 
 1. In your admin panel, go to Appearance -> Themes and click the Add New button.
 2. Click Upload and Choose File, then select the theme's ZIP file. Click Install Now.
 3. Click Activate to use your new theme right away.
 
-Frequently Asked Questions
-============================
+== Frequently Asked Questions ==
 
-#### How do I change the color scheme, header banner, logo, favicon etc?
+== How do I change the color scheme, header banner, logo, favicon etc? ==
 
 Answer: You can change easily all these settings from live customizer theme option panel (Appearance -> Customize) 
 where you will find all those options like colorpicker, image uploader, social settings, sidebar settings etc.
 
-#### How do I post videos & audios with the video/audio post formats?
+== How do I post videos & audios with the video/audio post formats? ==
 
 Answer: Paste your video/audio url into the WordPress editor, select video/audio post format & hit publish.
 
-#### How do I post Quote post formats?
+== How do I post Quote post formats? ==
 
 Answer: Write & select text with the blockquote from WordPress post editor bar, select quote post format & hit publish
 
-#### How do I post Quote post formats?
+== How do I post Quote post formats? ==
 
 Answer: Write your Quote in the WordPress Visual editor & select the Quote texts. After that click on the 
 Blockquote button from visual editor toolbar, Hit Publish.
 
-#### How do I add author bio?
+== How do I add author bio? ==
 
 Answer: In order to display the author bio box you need to write something about yourself in the author description box.
 You can do that by going to users > your profile
 
-Quick Specs
-======================
+== Quick Specs ==
 
 1. The main content width is 1140px.
 2. The sidebar width is 300px.
 3. Default featured images are 750px wide by 415px high.
 4. 2 level nested menu
 
-
-
-
-Resource Licenses
-=======================
+== Resource Licenses ==
 
 WpF Flaty is distributed under the terms of the GNU GPL v3 or later (http://www.gnu.org/licenses/gpl-3.0.html).
 Below you will find all the resources that WpF Flaty used.
