@@ -1,11 +1,11 @@
-License
+About Theme
 =========================
-
+Theme Name: WpF Flaty
 Contributors: WpFreeware
 Contributors URI: http://www.wpfreeware.com/wpf-flaty-responsive-free-flat-wordpress-theme/
 Tags: full-width-template, one-column, custom-header, custom-colors, theme-options, threaded-comments, sticky-post, custom-background, custom-menu, editor-style, featured-images, gray, light, responsive-layout, right-sidebar, left-sidebar, translation-ready, two-columns
 Requires at least: 4.3
-Tested up to: 4.5.3
+Tested up to: 4.6.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -104,6 +104,9 @@ https://www.pexels.com/photo/bread-food-breakfast-supper-72741/
 https://www.pexels.com/photo/orange-dry-leaves-on-the-ground-inside-forest-under-clear-sky-30567/
 https://www.pexels.com/photo/brown-fire-woods-60232/
 
+Images License:
+
+https://creativecommons.org/choose/zero/
 
 
 == Fonts ==
