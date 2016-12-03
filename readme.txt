@@ -1,5 +1,5 @@
 == About Theme ==
-Contributors: WpFreeware
+Contributors: wpfreeware
 Contributors URI: http://www.wpfreeware.com/wpf-flaty-responsive-free-flat-wordpress-theme/
 Tags: full-width-template, one-column, custom-header, custom-colors, theme-options, threaded-comments, sticky-post, custom-background, custom-menu, editor-style, featured-images, gray, light, responsive-layout, right-sidebar, left-sidebar, translation-ready, two-columns
 Requires at least: 4.3
@@ -79,24 +79,20 @@ Below you will find all the resources that WpF Flaty used.
 Images used in screenshot.png were picked from [pexels] (https://www.pexels.com) 
 & licensed under the [CC0](https://creativecommons.org/choose/zero/).
 
-Image sources:
+Images used in demo:
 
-https://www.pexels.com/photo/person-standing-on-a-ground-with-dry-leaves-133262/
-https://www.pexels.com/photo/food-plate-chocolate-dessert-132694/
-https://www.pexels.com/photo/shallow-focus-photography-of-smiling-blonde-haired-woman-129868/
-https://www.pexels.com/photo/white-and-brown-short-coated-puppy-130765/
-https://www.pexels.com/photo/headphone-smartphone-earphone-music-7417/
-https://www.pexels.com/photo/photography-of-orange-brown-and-white-face-of-cat-128576/
-https://www.pexels.com/photo/person-in-white-sneakers-on-green-grass-near-flowering-shrub-127870/
-https://www.pexels.com/photo/stainless-steel-fork-and-white-ceramic-plate-with-food-on-top-on-brown-wooden-table-127255/
-https://www.pexels.com/photo/man-inside-leafy-round-tunnel-116230/
-https://www.pexels.com/photo/bread-food-breakfast-supper-72741/
-https://www.pexels.com/photo/orange-dry-leaves-on-the-ground-inside-forest-under-clear-sky-30567/
-https://www.pexels.com/photo/brown-fire-woods-60232/
-
-Images License:
-
-https://creativecommons.org/choose/zero/
+https://www.pexels.com/photo/person-standing-on-a-ground-with-dry-leaves-133262/, licensed under the [CC0](https://creativecommons.org/choose/zero/).
+https://www.pexels.com/photo/food-plate-chocolate-dessert-132694/, licensed under the [CC0](https://creativecommons.org/choose/zero/).
+https://www.pexels.com/photo/shallow-focus-photography-of-smiling-blonde-haired-woman-129868/, licensed under the [CC0](https://creativecommons.org/choose/zero/).
+https://www.pexels.com/photo/white-and-brown-short-coated-puppy-130765/, licensed under the [CC0](https://creativecommons.org/choose/zero/).
+https://www.pexels.com/photo/headphone-smartphone-earphone-music-7417/, licensed under the [CC0](https://creativecommons.org/choose/zero/).
+https://www.pexels.com/photo/photography-of-orange-brown-and-white-face-of-cat-128576/, licensed under the [CC0](https://creativecommons.org/choose/zero/).
+https://www.pexels.com/photo/person-in-white-sneakers-on-green-grass-near-flowering-shrub-127870/, licensed under the [CC0](https://creativecommons.org/choose/zero/).
+https://www.pexels.com/photo/stainless-steel-fork-and-white-ceramic-plate-with-food-on-top-on-brown-wooden-table-127255/, licensed under the [CC0](https://creativecommons.org/choose/zero/).
+https://www.pexels.com/photo/man-inside-leafy-round-tunnel-116230/, licensed under the [CC0](https://creativecommons.org/choose/zero/).
+https://www.pexels.com/photo/bread-food-breakfast-supper-72741/, licensed under the [CC0](https://creativecommons.org/choose/zero/).
+https://www.pexels.com/photo/orange-dry-leaves-on-the-ground-inside-forest-under-clear-sky-30567/, licensed under the [CC0](https://creativecommons.org/choose/zero/).
+https://www.pexels.com/photo/brown-fire-woods-60232/, licensed under the [CC0](https://creativecommons.org/choose/zero/).
 
 
 == Fonts ==
